@@ -1,0 +1,132 @@
+h1{
+    font-style: initial;
+    text-align: center;
+}
+button{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+}
+h2{
+    color: firebrick;
+       font-style: initial;
+    text-align: center;
+}
+
+.aster {
+       text-align: center;
+    font-style: italic;
+    font-size: 100px;
+
+}
+h3{
+    color: chartreuse;
+    font-style: italic;
+    
+}
+h4{
+    color: burlywood;
+    font-style: italic;
+    }
+h5{
+    color: black;
+    font-size: 100px;
+    font-style: italic;
+}
+ol{
+    color: black;
+font-style: italic;
+}
+body{
+    background-color: rgb(148, 148, 248);
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+a{
+    color: crimson;
+    
+    padding: 80px;
+    text-align:left;
+}
+.rose-flower{
+    font-size: large;
+    text-align: center;
+       color:black;
+}
+.staff{
+    text-align: left;
+    color: black;
+    text-align: center;
+    
+}
+.callaly{
+    color: greenyellow;
+   
+    color: gold;
+    text-align: center;
+}
+
+.mary-blossom{
+    background-color: deepskyblue;
+     text-align:right;
+}
+.mary-blossom a.lily{
+    color:firebrick;
+    
+    padding: 80px;
+    text-align:left;
+}
+.mary-blossom a.lotuse{
+    color: firebrick;
+        padding: 80px ;
+    text-align: left;
+}
+
+.Tochukwu{
+    color: blue;
+    text-align: left;
+    padding: 70px;
+}
+#carouselExample{
+    color: chocolate;
+    font-size:100px;
+    text-align: center;
+
+}
+.carousel-inner{
+    color: darkred;
+    text-align: center;
+    font-size: 100px;
+}
+.carousel-item active{
+    color: crimson;
+    font-size: 100px;
+    text-align: center;
+}
+.card-body{
+    font-size: 100px;
+    text-align: center;
+    color: blue;
+}
+.card-text{
+    color: blue;
+    font-size: 100px;
+    text-align: center;
+}
+.card{
+    color: greenyellow;
+font-size: large;
+text-align: center;
+align-items: center;
+}
+
+
+.btn btn-primary{
+    color: gold;
+    font-size: 100px;
+    text-align: center;
+}
+.slider{
+    width: 100%;
+    height: 500px;
+    position: relative ;
+}
